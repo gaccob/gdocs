@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/data/home/gaccobzhang/PolarServer/dev/project/cmake'
-let g:netrw_dirhist_2='/data/home/gaccobzhang/ChocolateServer0903/installs/scripts'
-let g:netrw_dirhist_3='/data/home/gaccobzhang/ChocolateServer/run/etc/tcmcenter'
