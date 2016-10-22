@@ -23,6 +23,7 @@ set fileencoding=utf-8  "默认utf8编码"
 set fileencodings=utf-8,gb2312,gbk
 "set foldmethod=syntax   "折叠设置" 
 set noignorecase        "不忽略大小写"
+set backspace=indent,eol,start  "允许退格"
 let &termencoding=&encoding
 
 "默认关闭折叠"
